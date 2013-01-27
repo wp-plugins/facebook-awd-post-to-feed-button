@@ -9,7 +9,6 @@ Stable tag: 1.0
 
 This plugin will add shortcode and widget that add share buttons.
 If a user click on the button, Facebook will show a dialog with sharing options.
-Add your own css class on the button.
 
 == Description ==
 
