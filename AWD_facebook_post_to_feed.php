@@ -3,7 +3,7 @@
 Plugin Name: Facebook AWD Post To Feed
 Plugin URI: http://facebook-awd.ahwebdev.fr/plugins/post-to-feed/
 Description: This plugin will help you to create Share button and add them on your posts, page by widgets or shortcodes.
-Version: 1.2
+Version: 1.0
 Author: AHWEBDEV
 Author URI: http://facebook-awd.ahwebdev.fr
 License: Copywrite AHWEBDEV
